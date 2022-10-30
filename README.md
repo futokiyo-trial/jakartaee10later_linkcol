@@ -81,3 +81,7 @@ Jakarta EE 10以降のリンク集
 
 [Helidon Tips - MicroProfile RestClientを使ったRESTリソースのJUnitテスト](https://developer.mamezou-tech.com/msa/mp/ext03-helidon-rest-testing/)
 
+[Java仕様勉強会「MicroProfile Config」](https://www.youtube.com/watch?v=PNVzxEtVSr4)
+
+[Compatible Implementations for MicroProfile 5.0](https://microprofile.io/compatible/5-0/)
+
