@@ -3,6 +3,10 @@ Jakarta EE 10以降のリンク集
 
 [5年ぶりの本格的なメジャーバージョンアップ「Jakarta EE 10」正式リリース、クラウドネイティブなど対応 2022年10月5日](https://www.publickey1.jp/blog/22/5jakarta_ee_10.html)
 
+[Jakarta EE 10 変更内容総まとめ - A Memorandum 2022-07-26](https://blog1.mammb.com/entry/2022/07/26/215426)
+
+[Jakarta EE 10 - Jakarta Batch 2.1 変更内容まとめ - A Memorandum 2022-06-14](https://blog1.mammb.com/entry/2022/06/14/090000)
+
 [Jakarta EE 10 is on its way with WildFly 27 - 2022/07/16](http://www.mastertheboss.com/java-ee/jakarta-ee/jakarta-ee-10-is-on-its-way-with-wildfly-27/)
 
 [社内勉強会でJakarta EE 10の変更について発表しました 2022年6月30日](https://tech.bis5.net/2022/06/30/349.html)
@@ -59,6 +63,12 @@ Jakarta EE 10以降のリンク集
 
 [WildFly-27.0.0.1.Beta1でJakarta EE10を試す - 水まんじゅう2 2022-10-15](https://megascus.hatenablog.com/entry/2022/10/15/203247)
 
+[WildFly-27.0.0.1.Beta1とKotlinでJakarta EE10を試す - 水まんじゅう2 2022-10-16](https://megascus.hatenablog.com/entry/2022/10/16/152535)
+
+[Jakarta EE に Core Profile というのが増えていた - 水まんじゅう2 2022-04-13](https://megascus.hatenablog.com/entry/2022/04/13/203851)
+
+[Jakarta EE 10で新しくなった点(What’s new in Jakarta EE 10) の勝手翻訳 - 水まんじゅう2 2022-04-22](https://megascus.hatenablog.com/entry/2022/04/22/163357)
+
 [Jakarta EE 10への準備 – まずは9.1へのバージョンアップ - 2022-09-25](https://developer.mamezou-tech.com/blogs/2022/09/25/ready-to-ee10/)
 
 [第1回 MicroProfileってなにそれ？ - MicroProfileの登場](https://developer.mamezou-tech.com/msa/mp/cntrn01-what-mp/)
@@ -84,4 +94,8 @@ Jakarta EE 10以降のリンク集
 [Java仕様勉強会「MicroProfile Config」](https://www.youtube.com/watch?v=PNVzxEtVSr4)
 
 [Compatible Implementations for MicroProfile 5.0](https://microprofile.io/compatible/5-0/)
+
+[hantsy / jakartaee10-sandbox](https://github.com/hantsy/jakartaee10-sandbox)
+
+[Apress / javaEE-to-jakartaEE10-recipes](https://github.com/Apress/javaEE-to-jakartaEE10-recipes)
 
