@@ -33,6 +33,8 @@ Jakarta EE 10以降のリンク集
 
 [JJUGナイトセミナー「Jakarta EE特集：Java EE / Jakarta EE」（YouTube）  - 2022/07/25](https://www.youtube.com/watch?v=1FiTSAESWyA)
 
+[ついに公開！Jakarta EE 10 ～ Open Libertyで新機能を体験！！ ](https://note.com/ibm_automation/n/n40166b0b85e2)
+
 [JakartaOne Livestream Japan 2022（公式サイト動画集） - 2022/9/16](https://jakartaone.org/jp/2022/japan/)
 
 [JakartaOne Livestream Japan 2022（YouTube動画集） - 2022/9/16](https://www.youtube.com/playlist?list=PLutlXcN4EAwC1mTOqWWjDhSgtofYiStS8)
@@ -64,6 +66,14 @@ Jakarta EE 10以降のリンク集
 [WildFly-27.0.0.1.Beta1でJakarta EE10を試す - 水まんじゅう2 2022-10-15](https://megascus.hatenablog.com/entry/2022/10/15/203247)
 
 [WildFly-27.0.0.1.Beta1とKotlinでJakarta EE10を試す - 水まんじゅう2 2022-10-16](https://megascus.hatenablog.com/entry/2022/10/16/152535)
+
+[WildFly 27 Final is released! By Brian Stansberry | November 09, 2022](https://www.wildfly.org/news/2022/11/09/WildFly27-Final-Released/)
+
+[Quarkus 3.0.0.Alpha1 released - First iteration of our Jakarta EE 10 stream - November 18, 2022 ](https://quarkus.io/blog/quarkus-3-0-0-alpha1-released/)
+
+[fosstodon.org quarkusio](https://fosstodon.org/@quarkusio)
+
+[Java News Roundup: WildFly 27, Spring Release Candidates, JEPs for JDK 20, Project Reactor - InfoQ 2022/11/15](https://www.infoq.com/news/2022/11/java-news-roundup-nov07-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java&utm_content=65353609)
 
 [Jakarta EE に Core Profile というのが増えていた - 水まんじゅう2 2022-04-13](https://megascus.hatenablog.com/entry/2022/04/13/203851)
 
