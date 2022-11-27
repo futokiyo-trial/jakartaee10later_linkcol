@@ -29,6 +29,18 @@ Jakarta EE 10以降のリンク集
 
 [Liberty Dojo (2)：Libertyの基本的な構成方法（動画） - 2022/07/12](https://video.ibm.com/recorded/131937226)
 
+[Liberty Dojo (1): Cloud Nativeでも！OSSの実行環境 Open Liberty ](https://ibm-developer.connpass.com/event/250329/)
+
+[Liberty Dojo (3): tWASからLibertyへのモダナイズ](https://ibm-developer.connpass.com/event/252232/)
+
+[Liberty Dojo (4): MicroProfileを触ろう](https://ibm-developer.connpass.com/event/253664/)
+
+[Liberty InstantOnでクラウドネイティブにひろがるJakarta EEの世界](mhttps://speakerdeck.com/takakiyo/liberty-instantondekuraudoneiteibunihirogarujakarta-eenoshi-jie)
+
+[Intel MacでOpen LibertyのInstantOnを試す - Qiita 2022年10月16日](https://qiita.com/TTakakiyo/items/215a221ec90426880594)
+
+[Libertyの利用方法を学習するサイト](https://openliberty.io/guides/)
+
 [JJUGナイトセミナー「Jakarta EE特集：Java EE / Jakarta EE」  - 2022/07/25](https://speakerdeck.com/takakiyo/jakarta-ee)
 
 [JJUGナイトセミナー「Jakarta EE特集：Java EE / Jakarta EE」（YouTube）  - 2022/07/25](https://www.youtube.com/watch?v=1FiTSAESWyA)
@@ -109,3 +121,8 @@ Jakarta EE 10以降のリンク集
 
 [Apress / javaEE-to-jakartaEE10-recipes](https://github.com/Apress/javaEE-to-jakartaEE10-recipes)
 
+[Jakarta EE 10 の環境構築 - お金をかけずにサーバーの勉強をしよう 2022年11月14日](https://subro.mokuren.ne.jp/0620.html)
+
+[コンテナ環境でのJava技術の進化 - JJUG CCC 2022 Fall 2022/11/27](https://speakerdeck.com/kazumura/kontenahuan-jing-denojavaji-shu-nojin-hua)
+
+[Jakarta NoSQL](http://www.jnosql.org/spec/)
