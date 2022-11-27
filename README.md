@@ -94,6 +94,8 @@ Jakarta EE 10以降のリンク集
 
 [C 1600 瀬戸智レッドハット Red Hat Application Foundationsから学ぶアーキテクチャー入門](https://www.youtube.com/watch?v=LBwv5yO3JY0)
 
+[2022/11/24 Java仕様勉強会: Jakarta Servlet](https://speakerdeck.com/megascus/24-javashi-yang-mian-qiang-hui-jakarta-servlet)
+
 [Jakarta EE に Core Profile というのが増えていた - 水まんじゅう2 2022-04-13](https://megascus.hatenablog.com/entry/2022/04/13/203851)
 
 [Jakarta EE 10で新しくなった点(What’s new in Jakarta EE 10) の勝手翻訳 - 水まんじゅう2 2022-04-22](https://megascus.hatenablog.com/entry/2022/04/22/163357)
