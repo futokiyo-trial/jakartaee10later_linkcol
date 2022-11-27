@@ -39,6 +39,9 @@ Jakarta EE 10以降のリンク集
 
 [Intel MacでOpen LibertyのInstantOnを試す - Qiita 2022年10月16日](https://qiita.com/TTakakiyo/items/215a221ec90426880594)
 
+[D 1000 高宮裕子 MicroProfile JWTを使って、マイクロサービスをセキュアにしよう](https://www.youtube.com/watch?v=EW5L9EEEvGI)
+
+
 [Libertyの利用方法を学習するサイト](https://openliberty.io/guides/)
 
 [JJUGナイトセミナー「Jakarta EE特集：Java EE / Jakarta EE」  - 2022/07/25](https://speakerdeck.com/takakiyo/jakarta-ee)
@@ -56,6 +59,8 @@ Jakarta EE 10以降のリンク集
 [Micro Profileで始めるServerless EE](https://slide4vr.nklab.dev/slide/0m3ItnvCMQhbACV9rR5mkdmFOns2/7456622f-c05d-4fe3-b867-53e89bfa9501)
 
 [Jakarta EE/MicroProfileの利用者がAzureを選択する理由](https://www.youtube.com/watch?v=zmfZXBykDxc)
+
+[C 1100 てらだよしおマイクロソフト MicrosoftBuildOpenJDKをコンテナ環境で利用する際のベスト・プラクティス Yoshio Terada](https://www.youtube.com/watch?v=jYQ5zu5cbkU)
 
 [Jakarta JSON-B 3.0](https://www.youtube.com/watch?v=57qanVTw_Rs)
 
@@ -87,6 +92,8 @@ Jakarta EE 10以降のリンク集
 
 [Java News Roundup: WildFly 27, Spring Release Candidates, JEPs for JDK 20, Project Reactor - InfoQ 2022/11/15](https://www.infoq.com/news/2022/11/java-news-roundup-nov07-2022/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Java&utm_content=65353609)
 
+[C 1600 瀬戸智レッドハット Red Hat Application Foundationsから学ぶアーキテクチャー入門](https://www.youtube.com/watch?v=LBwv5yO3JY0)
+
 [Jakarta EE に Core Profile というのが増えていた - 水まんじゅう2 2022-04-13](https://megascus.hatenablog.com/entry/2022/04/13/203851)
 
 [Jakarta EE 10で新しくなった点(What’s new in Jakarta EE 10) の勝手翻訳 - 水まんじゅう2 2022-04-22](https://megascus.hatenablog.com/entry/2022/04/22/163357)
@@ -113,6 +120,8 @@ Jakarta EE 10以降のリンク集
 
 [Helidon Tips - MicroProfile RestClientを使ったRESTリソースのJUnitテスト](https://developer.mamezou-tech.com/msa/mp/ext03-helidon-rest-testing/)
 
+[C 1700 Dmitry Aleksandrov Helidon Reactive vs Blocking Níma](https://www.youtube.com/watch?v=Ued3NeQVCnI)
+
 [Java仕様勉強会「MicroProfile Config」](https://www.youtube.com/watch?v=PNVzxEtVSr4)
 
 [Compatible Implementations for MicroProfile 5.0](https://microprofile.io/compatible/5-0/)
@@ -125,4 +134,15 @@ Jakarta EE 10以降のリンク集
 
 [コンテナ環境でのJava技術の進化 - JJUG CCC 2022 Fall 2022/11/27](https://speakerdeck.com/kazumura/kontenahuan-jing-denojavaji-shu-nojin-hua)
 
+[C 1230 数村憲治 コンテナ環境でのJava技術の進化](https://www.youtube.com/watch?v=nJJHSwywei0)
+
+[B 1700 OtavioSantana Persistence made easy with Jakarta Data NoSQL](https://www.youtube.com/watch?v=5FOK1WvJyMU)
+
 [Jakarta NoSQL](http://www.jnosql.org/spec/)
+
+
+[B 1600 内田理絵ウルシステム Jaegerによる分散トレーシングの実践～マイクロサービスのボトルネック解消～](https://www.youtube.com/watch?v=V3A_87dYH6o)
+
+
+
+
