@@ -35,7 +35,7 @@ Jakarta EE 10以降のリンク集
 
 [Liberty Dojo (4): MicroProfileを触ろう](https://ibm-developer.connpass.com/event/253664/)
 
-[Liberty InstantOnでクラウドネイティブにひろがるJakarta EEの世界](mhttps://speakerdeck.com/takakiyo/liberty-instantondekuraudoneiteibunihirogarujakarta-eenoshi-jie)
+[Liberty InstantOnでクラウドネイティブにひろがるJakarta EEの世界](https://speakerdeck.com/takakiyo/liberty-instantondekuraudoneiteibunihirogarujakarta-eenoshi-jie)
 
 [Intel MacでOpen LibertyのInstantOnを試す - Qiita 2022年10月16日](https://qiita.com/TTakakiyo/items/215a221ec90426880594)
 
