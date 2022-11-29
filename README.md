@@ -41,6 +41,7 @@ Jakarta EE 10以降のリンク集
 
 [D 1000 高宮裕子 MicroProfile JWTを使って、マイクロサービスをセキュアにしよう](https://www.youtube.com/watch?v=EW5L9EEEvGI)
 
+[MicroProfile JWTを使ってマイクロサービスをセキュアにしよう](https://speakerdeck.com/hirokotakamiya2022/microprofile-jwtwoshi-tutemaikurosabisuwosekiyuanisiyou)
 
 [Libertyの利用方法を学習するサイト](https://openliberty.io/guides/)
 
