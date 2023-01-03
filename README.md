@@ -17,6 +17,8 @@ Jakarta EE 10以降のリンク集
 
 [Top 7 Features in Jakarta EE 10 Release - Jun. 29, 22](https://dzone.com/articles/top-7-features-in-jakarta-ee-10-release)
 
+[JAX-RS（Jakarta RESTful Web Services） 3.1.0で、Contextアノテーションの代わりにCDIが推奨されるようになっていたという話 2022-12-25](https://kazuhira-r.hatenablog.com/entry/2022/12/25/195703)
+
 [マイクロソフト、Eclipse Foundationの「Jakarta EE」および「MicroProfile」ワーキンググループに参加表明。Javaへのコミットメントをさらに強める 2022年7月15日](https://www.publickey1.jp/blog/22/eclipse_foundationjakarta_eemicroprofilejava.html)
 
 [OpenLivertyのスターター](https://www.openliberty.io/start/)
